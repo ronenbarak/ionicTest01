@@ -1,5 +1,4 @@
 import React from "react";
-import Sample from './sample';
 import NumericInputBox from './NumericInputBox'
 import TableCell from '@material-ui/core/TableCell';
 import TableHead from '@material-ui/core/TableHead';
